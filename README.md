@@ -1,4 +1,3 @@
-# red heart code here
 import turtle
 
 t = turtle .Turtle()
@@ -7,7 +6,6 @@ turtle.title("For Puppy Lovers")
 screen=turtle.Screen()
 screen.bgcolor("black")
 
-# Drawing heart
 t.color("red")
 t.fillcolor("red")
 t.begin_fill()
@@ -21,7 +19,6 @@ t.forward(180)
 
 t.end_fill()
 
-# writing text
 t.up()
 t.setpos(-65, 150)
 t.down()
